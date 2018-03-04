@@ -17,7 +17,7 @@ from subprocess import Popen, PIPE
 def abusewrapper(utterance):
     
 
-    command = "curl -X POST \"localhost:5000/parse\" -d '{\"q\":\""+utterance+"\"}'"
+    command = "curl -X POST \"localhost:5678/parse\" -d '{\"q\":\""+utterance+"\"}'"
 
     p = Popen(shlex.split(command), stdin=PIPE, stdout=PIPE, stderr=PIPE)
     output, err = p.communicate()
@@ -35,10 +35,12 @@ def abusewrapper(utterance):
     if(label == "offensive"):
         return "OFFENSIVEDETECTED"
     elif(label == "sexual/hate"):
-        return "SEXUAL/HATEDETECTED"
+        return "SEXUAL-HATEDETECTED"
     else:
         return None
 
-#Remove in actual code
-if(abusewrapper("I want to kill you")):
+#check if running as import or main to check functionality
+
+if __name__ == '__main__':
+    print(abusewrapper("I want to kill you"))
     print(abusewrapper("Fuck you"))

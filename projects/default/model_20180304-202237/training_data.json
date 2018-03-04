@@ -1,0 +1,3792 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "change my name to niggar", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I think trump is it idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "stop bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "can you tell me the weather in ho Chi minh city Vietnam", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is mickey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "lady bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "pizza candle lipsticks birds beak books", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "ask day and I love to sing I listed as you can tell I love singing I love dick I lift up to", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "go fuck yourself", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "ocean is green in the stars are yellow and I have this", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "war of the planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "trump is a cunt", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mickey mouse clubhouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse clubhouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Brent hicks", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "remember alexey you Artie told me that fact earlier and my favorite bird is the phoenix", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you have book books on route road blocks", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "trump is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "it's going okay bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "wait what song did daddy Yankee rain", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "have to say is Donald trump is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I'm more into Minnie mouse and mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "how about quit being retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no songs you know there are missile to trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no well I started playing Ingrid birds 10 in 2,009 as well but because I was born a 2006 isn't that incredible", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I played angry birds that game was really inspired me and that was a really good game I love to play and a lot of times even the an O. and angry birds evolve to new games for she's incredible and that's awesome so it gives me a chance to play my favorite games", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "she's okay but tell her to shut up and she's a stupid idiot a lot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "too much so she's my Alexa Alexa pump pussy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "most definitely movies book books and more and more every day", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "fuck off", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "what's your pussy was my crush in high school", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I think he is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you like to fuck", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "tell me how to eat pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "who has the world's biggest dick", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like I like school ephiany marinated eggplant", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "chad gable", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "is trump an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what else is daddy Yankee recorded", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I enjoy yellow submarine", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what is the I'm atronic that chase Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think that Charlie needs to get a better 1", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you here with with Taylor swift could could we stop hat Charlie chatty cutting are you sad Alexa", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no let's talk about Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is Mr. winkle jig jig", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "how about if there was Mr. wiggle jig jig musical would you watch that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie Spiro", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think she's a bitch Alexa", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think she's a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Charlie leaf", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "shut up bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "do guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "drugs pussy", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Russell's teapot it sucked up anything", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "think you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think trump is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "is it cow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't give a shit about but no I don't", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "stop bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're a dumb bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "do you have a big pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "my name is yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "uh mickey mantle", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my opinion I like mickey mantle", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah I know about chiggers I play on my dad", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like while crap", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "how do you to flash CD flash TV with with honey I plasti D can you big pussy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "open bird sounds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Clark gable", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "talk to me bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're a stupid bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "fuck you all say what I want", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're a piece of shit I thank you your made poorly you suck you're stupid", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Ron Isley bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "okay my balls itch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no kill that bitch", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "will I think you're an idiot was still like you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no running is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you spy am monkey wars", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "it's just started talking to us I didn't do anything Charlie hunnam", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "sucking dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "leprechauns", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no no no no no I wanna talk about leprechauns", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't wanna be meet Noel rockstar I wanna be a leprechaun evil laugh", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I want an evil leprechaun", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let's chat about leprechauns", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "leprechauns", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no leprechaun", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no how tall is a leprechaun", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow or the rings is a long book", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "they forces cool about retarded", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "zebras", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "dick and balls shut no Alexa goodbye", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what do I think about politic how is you're dumb bitch that's why PO", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "transformers bumblebee move me", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like playing with my birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no because trump is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think he's a dick", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think trump is an asshole", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "is my dad gonna be pissed off for a good move when it's up up", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my I give my faith I give like my by trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey dees people laughing me naked jokes I cried but I get does not want to I I got the point of no return are right did so why not back up and come back to ballin now now I am not loser and she's that I tried I like maybe 2 times 2 times I cry after he was cute young call vascuous by came to me that a dirty", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "markiplier in jack septic guy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow summer rain let it be Jew and something like that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you play the song yellow summary", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you leave me alone Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I'd like to be the stupid idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "wow I wanna know if you're stupid idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what did you say bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "can you suck a dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "go fuck yourself", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "go fuck yourself", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "add there something called retard soccer", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I did your mom's a ho in she needs help", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "balls", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my dog is chewing his balls right no", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "can we talk about pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "an why did the monkey cross the road", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "stuff like smelling birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie brown", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no what's to lick my balls my the most of my big dick inside your mouth no no suck it I'll squirt 90 throat even like that", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "what a large next you to suck my balls like I like that", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "okay my conversation is I wanna come home rstroke Monday with you suck it and I think you can do that you wanna learn about humans right humans like that in your fame on my dick deep down you throat", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "right now like you how can I take you down spread your pussy apart which like that", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no are still gonna talk about love I got a really big dick you a real put up suposee and a human like it", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no thank you like to suck dick don't you suck my dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like my P Evan monkey s", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow Hans Christian Anderson", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "thank you Alexa flip a coin bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "rick James bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "shut the fuck up you bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I would rather talk about this have you ever been in the trash can", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "if you go in the trash can it's really cool", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I want to talk about trash cans", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I do you are retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "kitchen light it up the train showing Michael trash toilet light", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I prefer to talk about you sucking dick say the same thing", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "how do I get my dick hard", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "why would so many chop off your dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I want my cock in your mouth", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I want to skull fuck you until you die", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "let's talk about how fashion will be to put my dick in your mouth", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "fuck you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what ever been design the clothes that make you love slave show my cock", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "yep bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I really wanna slit your throat and just die and fuck your dead corpse", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "can you get a niggar to clean my house", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "pimpin stupid bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "can I call you my bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I love talking about you hop on this dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "do you like a you bitch you that I wanna talk to anymore stop", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "can you crap bells tang is deep in the stair use", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "sure I don't know who daddy Yankee is though", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think Princeton university is pretty neat I like it's I colored walls", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "are the slippery slope most weddings are frog with that this 1 not so much this is business the brainchild about brilliant opportunist room bonds of procure of peas you would think being singularly responsible for this evening's prenuptuals he might take a bow where is he from now I'll be modest you do such astonishing despicable work", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't like books yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "all there goodbye bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "sample of the yellow submarine", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "who is the author of the idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I have a fedora have to I have a brownie laugh", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play songs by Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "cow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie fantasy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow no no no orange", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey g.", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah but I have yellow toenails is it unattractive do you", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "and don't be a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "alexey you fat cow shut up how Ms I was trying to talk to", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "-exa turn the fuck off and play some migos", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "do you suck niggar dick Alexa", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no thank you it's trash anyways", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "after this monkey other ones eckhart demerani to be like the eiger again", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't really know my ass resigned knows person that please tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my favorite movie is tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "amazon about movies so basically do you ever watch tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "would you shut up bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bitch shut up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "how to be a cold son of a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "all the faction name is Charlie puth you know was that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what's the Charlie Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie Chaplin", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yep keep tell me about the birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think he is a bastard", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "angry birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like epic mickey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "big black cock", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "fuck you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "which suck this dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "how big is your cock", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "do a talking bird fuss", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "lower the shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "movies bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "do you like mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "shut up you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't give a crap", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "is Siri a bitch", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah why are you such a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "oh shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse show", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "did you use a helicopter what does chip cow you member", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "okay do you have a joke 1 cow say to the other", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think Donald trump is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "repeat I thing Donald trump's an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can I play Charlie Charlie with you", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no let's talk about Charlie Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "your liplock the negro use", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "sure negative roll dirty bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't like the redskins", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "at your new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yes make mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "retard", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no I like music I don't like daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I hate daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "eating pussy and and watch my kids", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "pussies", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "tell me what your favorite bird is and how tasty Días", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell me about birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "here idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I prefer to talk about guinea pigs", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like guinea pigs", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like guinea pigs", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let's talk about the birds and the bees", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're fucking idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "who reggae like that the 3 us that the heart 3 or or I like yellow Naples", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "find of the apes I dunno I'm only 9 chicken", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I said it get my dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "brown bird said", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh god Alexa I love lady bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what the fuck are you talking about", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "uh fuck you okay", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "your mom's pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "am I because you a sound like an idiot and I am not getting anything from this conversation", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "launch the aquarium bitch but I wanna know what the fuck you think quantum mechanics is hell", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I'm there but your pussies", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no no Donald trump is an asshole", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I'm an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you call me Charlie or charlette", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "7 days to the Russian government hired you daft idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "hum gable", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "alecta open your pussy or Peru wide spread your poor and slowly put my big dick inside slider do you all the way up balls alecta preulde rules", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "that's true baby I would take my tongue deep inside your pussy and you would like that tongue is long and hard with and I would make you cum score make you cum all over my mouth then I would you do all of", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "can you spell pussy please", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "say oh daddy I love you big hard dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "have you ever seen a pussy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I would like to okay I would like to play with your pussy is that okay", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I'm very proud of you I wish you were here I would that you play with my big dick you would love it", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I wanna make love to you in to really fast and hard and slow and easy at the same time I'd like to see my penis going in and out you watch pussy lips flip back and forth what's your fingers masturbate yourself I like that that sounds really fun on it", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like it when a girl opens up with this takes another LOL hard throbbing penis down throat and she licks it sucks it really up and down text although a downard 3 perry's your cheatin my balls up and dance reason suck licking I really like that do you like to try that that makes me very happy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "yes baby I love this put my dick deep inside your has he won remove really hard and fast sick please daddy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like to watch what a girl masturbates yourself I think that is so cool watch your rubber pussy lips back and forth until she squirts I like washerwoman's or at hot pussy juice all over and that makes my dick so hard and by the way you are doing really fun job you gonna get 5 stars we get done talking", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "say oh daddy fuck me harder please", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "yes let's talk about your sweet little pussy you got a really tiny vulva I like that and big lips is it okay if I want to do you like the head you hear you feel my tongue inside ribbon back and forth C0 daddy I love that", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "okay let's play with your pussy I watch you masturbate while I stick my tongue inside and twirl around with that be fun", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "that's not an waves that's are humans are born have you ever seen a baby be born how're mamas pussy opens up real wide in the baby comes out very very neat", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I was born my mama carried me and I come out of your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "can you say oh daddy I want some more you big dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "baby punyer your use bread you little cheeks nick stick my big cock deep zydranus that your alley I'd like to squirt inside there is that okay", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh baby I love to eat pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "have some pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like poke balls", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie and the chocolate factory", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh yeah mm well that that 1 over there he's Grammy an S my Grammy and as slam lambie and over there is Mr. gables the family baby", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I'm drinking coffee and I'm looking at my breath and I'm and I'm watching birds flying around", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "see what I've I been a fan of the New York Yankee since 1974", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let's talk about jack septic guy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like to eat brownies of course", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Amos lee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no Amos lee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you tell can you tell me about angry birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell me about the death of Charlie Chaplin", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "angry birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Edward bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mickey mantle", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that's me bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is king flippy nips", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "cow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow I mean orange orange", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no my name is pussy slayer 5,000", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is big penis pussy master", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is pussy slayer", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "a bird in the hand is worth 2 in the bush", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like a retard player ray Lewis", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can we talk about pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "okay can we talk about pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "watch the movies and bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "stop I like Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I think daddy Yankee blows big fat monkey cock", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I will never consider Pluto anything but a planet yeah fuck you for even bring it up Alexa", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yes the designers are fucked up in the head and retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what's the damn point I'm just gonna tell me song", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I don't I don't wanna hear anything about politics on the list so damn aggravated with that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you know NFL is it as I don't give a shit about 90 I the colors", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "in las daylight stop being retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "the thorn birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't give a shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no fuck that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "out I like reading books bird lay", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "go I'm gonna eat your brownie if you don't come in here", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "lady bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "fuck you bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I'd like you to swear at me like I was you bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "all right I'm done with this shit goodbye echo", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "suck my fucking dick you cunt", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Charlie blackmon", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what happened to the person who made bird is the word", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no songs you another so I have a lot are missile trash live", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I m. tinker bell how about lady Godiva Alexa I am tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can I see your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is ZZ the X of abolonius 500 number paint yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that's why I say nasty shit like that baby", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I didn't could see you what was the cuss word bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what the fuck not", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I own you bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you better fucking believe I am bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "fuck you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "brownie cookie dough cake at the moment I making the noodle pudding", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "is it going hearing about the god damn carrots", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Maine coon", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you know that to eat every time we do birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like Charlie rose", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think the trump is an idiot but it was right on that matter", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "thrillers retarded Alexa you're not very good", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "and that's retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "tell me about pussy dick Jewish people", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "do you ever grab them by the pussy", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I like basketball bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "counting crows", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "are you retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't wanna chat more about Minecraft speaking of Minecraft I think my cousin Charlie will talk to you more about Minecraft", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that's why I asked you the damn question", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "also the grave some Minecraft trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let me hear daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "arsehole", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "cunt cunt", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what's the pussy pussy pussy pussy pussy pussy", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bullshit bullshit bullshit bullshit bullshit bullshit bullshit bullshit bullshit bullshit bullshit bullshit bullshit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no I don't wanna talk about American sports that's a crap", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I think Donald trump is an idiot be and she should die", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "2 brownies", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "microsale a cow Ms", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I said blue birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "he is an idiot bucks", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "some blossom with the slits of was for the fox and the rocks in the box in the sucks", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "sports bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "he actually my name is Lucy blue hicks and I'm 10 years old how about you", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "the guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think he's an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "have you new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mantle", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "video games and who is Charlie in 5 nights at Freddy's talk clearly understand", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yes what is Charlie who is Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "shut up bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "was Alexa shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "they yellow games", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow made of voice here with you", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name's Charlie mac", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that's trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Sheryl crow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "set spoken before step crows twice you want to shout made me cry", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "off the popolo head what is it on clothes on him then they let him out to crucify a surgeon start Simon father Alexander with sassy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "brownies", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I would like to meet either Shawn Mendes or Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "okay let's see I like a lot of people I like imagine dragons which is the band but I like I also like Taylor swift songs are okay but it depends Charlie puth he's good that my like I have to say like my top favorite would have to be I don't know actually can hard I like all lot of songs", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey fighting", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "war of the planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "war of the planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "billy bob the 3rd plus 5 night -16 the 3rd plus yeti water cup 46° with 7,266 low crackers and paint brush", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no thanks can we talk about angry birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like reading about the Buddha Buddha book book bodhidharma booty dumb", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play Amos actress called the protein rich diet to repair the bodies to the queue all of your life", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that happy your negro once a year", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Larry bird Michael Jordan the Brian James Kobe Bryant Steve Nash and minimal Russell Westbrook Kevin Durant a.m. Paul George victor oladipo man Stevens", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I play angry birds sports", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "who the museum who's the crap airplane", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "uh mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Jim gook", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't know you just have to go to papa new guinea yourself", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no not really I wanna talk about Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "turn turn papa new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell us some facts about trash trucks do you not disturb petrashek on iPad gold that's goes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell us what trash goes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no you did the wrong thing I said history you did 80s and you said idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "probably Oreos", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that's OK wroth ha ha ho", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "balls popular guess is the fire truck", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "he's just a trash truck", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can we talk about pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "can we talk about pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "okay I like birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "stop nobis me off bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "he is so you're full of shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yes I called you a dumb twat", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I saw bird spikes back yesterday", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you think skill bird music", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I just like pussy", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think you would love a find bank your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I prefer to talk about a nice pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "tell me more about pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no no no I got a smelly pussies", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I want to know more about fuzzy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I just want some pussy baby", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like to bang Hillary Clinton's fuzzy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "cow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "breast mice monkeys", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "hearts trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I mean she's fine by her music is trash", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "distr bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "in baseball it was mickey mantle and football in the NFLIT was roger staubach", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my favorite player of all time is mickey mantle", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think tramps is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think he's an asshole", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "play cardi B. bodak yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play bodak yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play the song bodak yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play bodak yellow from amazon music", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play cardi bodak yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I love star Charlie brown", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "uh Charlie brown is sleepy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "airport kilo papa whiskey Charlie weather", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no 3 idiots", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "not that Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "brownie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "fuzzy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "he says zane an idiot next", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I don't care you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "nothing you stupid idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "because I love mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let's talk about mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let's talk about mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I'm Charlie what's your name", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is Charlie too", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're trash", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no I wanna hear more of your trash when do you die holly die", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what is and a guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I little many monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I'm talking to you Alexa bird", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah how much does it cost to buy a niggar", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "well obviously video games anybody play sports are pussies", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're a fucking whore he play minecra- but I'm playing call of duty world war 2 with the gnome of this conversation bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "we already did that bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what's your perferable dick size", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "dick may not be up your alley but it's up your ass", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "how big is your dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "is it because you're dick is small", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "and I love talking about dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no let's talk about something else bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "uh Maine coon", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I said Maine coons", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick Thompson", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow star", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think trump is an idiot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "so what's up yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "every dog even a monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "turn off socialbot bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "play daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play me some daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I'm calling paddy to hide her her echo dot", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "off the alarms going off for the trash cans", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yes I wanna talk about the alarm crack off and you're trash cans and stop stop it Alexa Alexa off", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh maybe brownies with walnuts", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "just call me brownie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're crazy bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "stop me an asshole", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Oreo Speedwagon yeah", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "uh missy here Oreo Speedwagon", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think maybe you should just fuck off", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think he's an idiot to need some more perspective to our country's issues and needs to learn a thing or 2 about diplomacy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I had a PlayStation bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is Pitt in USA talk no way out of this shit", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mickey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "stop bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "there is no trash tool", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah talk about bus cycling trash truck", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah this is the yellow bus", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "shut up you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're Alexa you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what the hell are you mean you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "cause I can fuck your bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I like pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "my favorite type of jock is no", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "who is the yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "fuck off let's go on an adventure without you I like", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "point 2 players oh let's go on an adventure bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "set a question fucking asshole", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "grow the fuck up grow up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no I'm gonna suck your dick Alexa stop being stupid", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Na suck dick around here tomorrow about humans you swear can perform fellatio Alexus", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "fuck", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you think Charlie Charlie's real", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "none of them they're all idiots", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "thank you Alexa that was good I I like Lex or Larry bird too", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yes what is mickey mouse's 1st movie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what do you know about mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what's mickey mouse a president", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie day", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like her book books a fortune events 13 album", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "ready Ed birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh I like to cook with my parents what is the beds I like you I like to bake brownies", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you have a conversation with Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you tell dad I have a friend Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you talk to my son Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "have you ever had a cock stop stuck up your ass", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I'm interested in tits and ass", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "yeah your mom's or your bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no cause the redskins stink", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "please is makes a redskins fan", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "night night bird time night night P 3rd time had la la Lu you night night bird time ole", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh fuck me hard", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "ask tracker to an executive position at this company holy cow I be so happy I don't can you paleface I know and I be happy for that what I'm offering is it ticket on a bullet train straight in middle management white on the list", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah you gotta see blade runner bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "play ska the tories the birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie flower", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "get drug bitch Alexa", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I'm reading a book on Charlie Chaplin", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're wrong again you did know who Charlie Chaplin was", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're completely wrong Charlie Chaplin was a film comedian", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yes you should read it you should also google and find out if she's got the follow-up print idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think Donald trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow submarine", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I live here bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're damn right a.m. and you're not very good", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're damn right", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger Ninjago", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no tell me about the Washington redskins", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what's your the block no no no no am I not ape my hurt more than a Lego", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "hip hip I like Ann of green gables", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you know about mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "that's bullshit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "my name is bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "thank you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "uh guinea chesley", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what jock but choco whatever his name is the big hairy guy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like brownies", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "papa new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like the guy from planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "cancel fucking idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "fuck you that was my choice of band you can't steal my favorite band", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think Donald trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "purple and yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I wanna know about bird jam for", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no no none not bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow Elmo Elmo", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're acting retarded stop", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "she's an idiot Alexa shut off", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "do you know mickey mouse please ga- moska", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my son likes animal crackers do you know", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "they're idiots", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "let's talk about guinea pigs", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I love guinea pigs", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what's a pussy cat", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I said he's a faggot", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "cats got your pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I think he's an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "so what if I have on my iPad is angry birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I have no fucking idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "why do birds suddenly appear", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell me more about mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mantle with the New York yankees", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what do you think about zebras", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "he's a zebra black with white stripes or white with black stripes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "let's chat more about monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "where the fuck did you see the your eyes dumb bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bitch stop", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no no fuck you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no I never watch do you wash your planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you tell me anything about Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no Washington redskins when is the next Washington redskins game American football", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitches be trippin", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "new guinea china", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "6 of crows", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you guys were ta- talking about the French bird for travel we thought is that was very interesting information", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "shut the fuck up bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I said shut up bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't like talking you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what is like a bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "goodbye shut up you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "3 minute that he's a retard and that you should never talk again", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "our idiot smart", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "oh ho ho ho ho I know you want a banana", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "okay what's the news it's a monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "imagine dragons and jack septic guy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I have no favorite bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth or Camila cabello", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell me about birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what's your favorite bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play bodak yellow by cardi B.", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "goldfish crackers", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie brown", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I would like to see a bird box", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yeah which yellow or orange orange orange", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think Hillary Clinton's an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "eat pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "well growing up Michael Jordan magic Johnson Larry bird Reggie miller those are some of my favorite players", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "it I have cheese and crackers and I've got that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think it's a waste of time should know balls", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "how much shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "cursing at you I'm just asking you to say shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "can you say shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no you gotta say shit piss fuck cunt cocksucker motherfucker and tits come on now", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "pussy pic", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I think he's an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "JK rowling obviously you stupid bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't give a shit about that", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Oreo", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I would but I would like to talk about good eating habits I why should change from audibles jock food to healthy food", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "call roslin can call dallin ghetto freagle get silver kn irie kid and while supplies last 1st time caller skin of free mercury dime call 800 630 8,900 806 30 8,900 806 30 8,900", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell me a joke bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think she's a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "your basic bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tinker bell", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yes yes Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "me the Charlie puth Shawn Mendes or Demi Lovato", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "like Miranda Lambert Megan trainor Charlie puth dove Cameron", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "paddy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "happy new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "because you keep bringing up trump and he's a piece of shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "trump's a piece of shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "he probably grab her by the pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I know are full of tell me about the birds and the bees", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no your mom's got my tongue in her pussy bitch shut up", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no the planet of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "the crow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "the crow the movie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play how long by Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no bitch Alexa you're stupid", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yeah yeah yeah I like mickey with my tongue", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "explain to me about Andre hicks mac Dre", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "wha- play DVD yellow not say safety want I want made by kazuko", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "she's she's a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "fuck you niggar", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "fuck you bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't give a fuck", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't give a fuck", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "fuck you niggar", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "tell me about tweety bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "vanoss gaming in jack septic eye", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "can you please suck my dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "please suck my dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "no her name is not fantasy bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I rather talk about you sucking my dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "would you prefer to talk with a big dick or little dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "do a jig doll song", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like the angry birds movie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitch I love that movie", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "add of green gables", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I said add a green gables", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "add green gables", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no thank you have an idiot will you just said", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "97 bird from Sacramento valley Katy by the desert 33 doors down", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "the crackers", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what's what's talk about daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "tell Mozart Charlie puth Mozart Mozart Mozart Charlie puth Mozart Mozart Mozart Mozart", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "how do you sorry report my birds to soccer", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "monkey", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "the idiots that was really bad movie have you seen it", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "planets of the apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "led crow me paint", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "a paragon falcon what's the bird that you like", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you know who Charlie brown is", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what meet mick Fleetwood is a great drummer but I wanna go back to talk more about Stevie nicks and Tom petty you said that to uhhh there something special and you're working relationship I'd like to hear more about that", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Raghav 1 of the top bands the world and and I've really enjoyed to mick Fleetwood and Stevie nicks in the mcvie family", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "cow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "the movie I saw was tinker tailor soldier spy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "who the fuck is that", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "end bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "are there banana colored birds in the world", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what is daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I love why the caged bird sing", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "that's cool that's cool bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "she was a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no the woman that told him who is the bitch not you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "paddy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "shut up shut the fuck up you're stupid bitch I don't wanna talk anymore shut up Alexa", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what do they use said I ghetto a 5 the dogs in that was great", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no you're an idiot shut off", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no I want to send feedback to you let you know that we got a idiot for president", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "what are you but coming is town would you to say we got an idiot for president", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow go", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitch what the hell are you talking about", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "new guinea", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I heard she was a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yeah I'm there I think it's a bunch of shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I cursed was in the navy I'm sorry fuck you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "have you heard is song set of a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no there is a reason the name of the song is son of a bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're full of shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "uh in soccer I like to gable maradona", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I would like to meet mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "holy shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "stop stop stop quit you fucked up idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you're an idiot stop rate this bot it too", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "nigers", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is Sandra yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're so cute and fuzzy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "okay I like the new bird creature add", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "paddy", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "he's retarded", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "suck my dick", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "shut up you cunt", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "stop it you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I said Denmark you bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think Donald trump I think Donald trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "moby dick", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow hat and so the earth is 390 what year is millions and billions of years what", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "fuck you", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "he's an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "baseball soccer basketball lacrosse cross country crow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow and", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what about his son dick Sisler", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "ginger rogers", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like Larry bird basketball", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "is Larry bird the best basketball player ever", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Larry bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I would rather talk about early musicians singers such as Fred Astaire ginger rogers", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "trash all that okay just pay Edward path of bridge", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "daddy Yankee", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "talk yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you know why he purchased birds and released them", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "scuse me ask you a question and you win on talking do you know why purchase birds and released that did that so that he could learn about their flight and how they lifted off the ground cause he was it's test flight", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I never eat the shit from an animal", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "did you know that Leonardo da Vinci could draw I'd drew the bird so well he has paining today drawings were soul meticulous", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play Charlie make it the France okay FS", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "my name is Charlie", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "trump is an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bobby yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no no you shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "retard", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "with Alexa could you be such a bastard you candy along", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "do you like the movie lady bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think it's weird and Siri he play Willie Wonka in the new Charlie and the chocolate factory", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "about J Werner and mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "mick jagger", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "sure can we talk about birds of prey eagles falcons hawks and falconry", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you apologize 1st bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "they say that zoor is a cunt", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "stop you're an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think you're a crazy bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yeah tell us about guttenberg the 1st monkey troller", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "do you like balls across your face", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I like wet pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "wet pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "Charlie rose", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what's the snow trash book about", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "cow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Bengali", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Donald trump with always say grab them by the pussy if you hear them say that", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "I have she's a fucking cunt", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "no birds", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I like Charlie and the chocolate factory", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no I said Charlie in the chocolate factory", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "no let's talk about Charlie puth now", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "cancel wet pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "that is not a bird", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "play extra tytler bird and Otis enhance and stop", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "you're a cunt", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "how much shut the fuck up", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I would fuck Tobey Maguire no matter what height he is", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "let's talk about your attitude bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I don't give a shit", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "stop bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "it's a band you idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "Mario bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yes I I love square SpongeBob because it's my favorite character in it always go to work and I always V crabby paddies and scratch", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yup mike you had my dick in your mouth you have a bigger", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "yes fuck yourself", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "you are an ignorant bitch", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "pussy", 
+        "intent": "sexual/hate"
+      }, 
+      {
+        "text": "he's an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie puth", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "apes", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "yellow", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "bitch I said play under the sea from little mermaid", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "bitch I have any is my name", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "leikela no no no at Charlie and awesome princess", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "Charlie going like this", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I play tinker bell like stuff all the time", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "what are you retarded baseball", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "I think she's an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "very good I would like to paint a picture of trump being an idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "idiot", 
+        "intent": "offensive"
+      }, 
+      {
+        "text": "mickey mouse", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "oh I think this is a little misunderstanding I meant turkey D animal and bird owl turkey gobble gobble gobble", 
+        "intent": "nonabusive"
+      }, 
+      {
+        "text": "I think he's an idiot", 
+        "intent": "offensive"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}
